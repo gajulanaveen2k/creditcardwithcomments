@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    	
+    <wb-module deploy-name="credit-card-payment-application">
+        		
+        <property name="context-root" value="credit-card-payment-application"/>
+        		
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+        		
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        	
+    </wb-module>
+    
+</project-modules>
